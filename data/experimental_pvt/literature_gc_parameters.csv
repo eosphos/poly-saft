@@ -1,0 +1,10 @@
+prior_name,polymer,m_per_mw_mol_g,sigma_A,eps_k_K,source_table,full_reference,doi_or_url
+Tihic_2008,PP,0.0255,4.0729,279.64,Table 5 (p. 5095),"Tihic, A., Kontogeorgis, G. M., von Solms, N., Michelsen, M. L., & Constantinou, L. (2008). Ind. Eng. Chem. Res., 47(15), 5092-5101.",https://doi.org/10.1021/ie0710768
+Tihic_2008,PS,0.0202,4.1482,367.17,Table 5 (p. 5095),"Tihic, A., Kontogeorgis, G. M., von Solms, N., Michelsen, M. L., & Constantinou, L. (2008). Ind. Eng. Chem. Res., 47(15), 5092-5101.",https://doi.org/10.1021/ie0710768
+Tihic_2008,PVAc,0.0292,3.3372,227.68,Table 5 (p. 5095),"Tihic, A., Kontogeorgis, G. M., von Solms, N., Michelsen, M. L., & Constantinou, L. (2008). Ind. Eng. Chem. Res., 47(15), 5092-5101.",https://doi.org/10.1021/ie0710768
+Tihic_2008,PMMA,0.0262,3.6511,267.64,Table 5 (p. 5095),"Tihic, A., Kontogeorgis, G. M., von Solms, N., Michelsen, M. L., & Constantinou, L. (2008). Ind. Eng. Chem. Res., 47(15), 5092-5101.",https://doi.org/10.1021/ie0710768
+Tihic_2008,PIB,0.021,4.3169,296.46,Table 5 (p. 5095),"Tihic, A., Kontogeorgis, G. M., von Solms, N., Michelsen, M. L., & Constantinou, L. (2008). Ind. Eng. Chem. Res., 47(15), 5092-5101.",https://doi.org/10.1021/ie0710768
+Peters_2012,HDPE,0.0263,4.0226,253.16,Table 2 (p. 72),"Peters, F. T., Laube, F. S., & Sadowski, G. (2012). Fluid Phase Equilib., 324, 70-79.",https://doi.org/10.1016/j.fluid.2012.03.009
+Peters_2012,PP,0.0234,4.1032,222.41,Table 2 (p. 72),"Peters, F. T., Laube, F. S., & Sadowski, G. (2012). Fluid Phase Equilib., 324, 70-79.",https://doi.org/10.1016/j.fluid.2012.03.009
+Peters_2012,PMMA,0.0276,3.6187,256.01,Table 2 (p. 72),"Peters, F. T., Laube, F. S., & Sadowski, G. (2012). Fluid Phase Equilib., 324, 70-79.",https://doi.org/10.1016/j.fluid.2012.03.009
+Peters_2012,PIB,0.0235,4.1,265.5,Table 2 (p. 72),"Peters, F. T., Laube, F. S., & Sadowski, G. (2012). Fluid Phase Equilib., 324, 70-79.",https://doi.org/10.1016/j.fluid.2012.03.009

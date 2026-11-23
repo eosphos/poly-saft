@@ -1,0 +1,4497 @@
+{
+  "0": [
+    {
+      "polymer_id": "POLY_047",
+      "nearest_train_tanimoto": 0.5294117647058824,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_053",
+      "nearest_train_tanimoto": 0.6470588235294118,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_104",
+      "nearest_train_tanimoto": 0.5416666666666666,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_120",
+      "nearest_train_tanimoto": 0.28,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_125",
+      "nearest_train_tanimoto": 0.75,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_132",
+      "nearest_train_tanimoto": 0.5833333333333334,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_139",
+      "nearest_train_tanimoto": 0.4782608695652174,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_147",
+      "nearest_train_tanimoto": 0.6590909090909091,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_156",
+      "nearest_train_tanimoto": 0.49206349206349204,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_157",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_158",
+      "nearest_train_tanimoto": 0.5689655172413793,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_159",
+      "nearest_train_tanimoto": 0.6031746031746031,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_161",
+      "nearest_train_tanimoto": 0.5245901639344263,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_162",
+      "nearest_train_tanimoto": 0.55,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_164",
+      "nearest_train_tanimoto": 0.7090909090909091,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_166",
+      "nearest_train_tanimoto": 0.515625,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_167",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_169",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_170",
+      "nearest_train_tanimoto": 0.5373134328358209,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_193",
+      "nearest_train_tanimoto": 0.5272727272727272,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_194",
+      "nearest_train_tanimoto": 0.41304347826086957,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_201",
+      "nearest_train_tanimoto": 0.36363636363636365,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_202",
+      "nearest_train_tanimoto": 0.38333333333333336,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_203",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_204",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_206",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_207",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_210",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_212",
+      "nearest_train_tanimoto": 0.45161290322580644,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_213",
+      "nearest_train_tanimoto": 0.391304347826087,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_216",
+      "nearest_train_tanimoto": 0.7681159420289855,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_217",
+      "nearest_train_tanimoto": 0.9848484848484849,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_218",
+      "nearest_train_tanimoto": 0.8309859154929577,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_220",
+      "nearest_train_tanimoto": 0.4666666666666667,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_222",
+      "nearest_train_tanimoto": 0.36923076923076925,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_225",
+      "nearest_train_tanimoto": 0.36065573770491804,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_243",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_244",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_247",
+      "nearest_train_tanimoto": 0.5294117647058824,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_248",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_249",
+      "nearest_train_tanimoto": 0.625,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_250",
+      "nearest_train_tanimoto": 0.5396825396825397,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_251",
+      "nearest_train_tanimoto": 0.5396825396825397,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_252",
+      "nearest_train_tanimoto": 0.5238095238095238,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_253",
+      "nearest_train_tanimoto": 0.5161290322580645,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_254",
+      "nearest_train_tanimoto": 0.5396825396825397,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_255",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_256",
+      "nearest_train_tanimoto": 0.49122807017543857,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_267",
+      "nearest_train_tanimoto": 0.8,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_268",
+      "nearest_train_tanimoto": 0.8431372549019608,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_269",
+      "nearest_train_tanimoto": 0.7818181818181819,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_271",
+      "nearest_train_tanimoto": 0.5384615384615384,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_272",
+      "nearest_train_tanimoto": 0.5555555555555556,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_273",
+      "nearest_train_tanimoto": 0.5208333333333334,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_275",
+      "nearest_train_tanimoto": 0.5625,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_279",
+      "nearest_train_tanimoto": 0.5818181818181818,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_280",
+      "nearest_train_tanimoto": 0.6166666666666667,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_281",
+      "nearest_train_tanimoto": 0.5689655172413793,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_282",
+      "nearest_train_tanimoto": 0.5538461538461539,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_286",
+      "nearest_train_tanimoto": 0.37254901960784315,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_291",
+      "nearest_train_tanimoto": 0.5625,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_311",
+      "nearest_train_tanimoto": 0.4411764705882353,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_312",
+      "nearest_train_tanimoto": 0.4583333333333333,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_313",
+      "nearest_train_tanimoto": 0.5192307692307693,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_317",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_318",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_319",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_320",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_321",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_322",
+      "nearest_train_tanimoto": 0.5490196078431373,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_323",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_325",
+      "nearest_train_tanimoto": 0.9047619047619048,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_327",
+      "nearest_train_tanimoto": 0.8444444444444444,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_328",
+      "nearest_train_tanimoto": 0.8444444444444444,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_330",
+      "nearest_train_tanimoto": 0.7307692307692307,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_331",
+      "nearest_train_tanimoto": 0.5483870967741935,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_332",
+      "nearest_train_tanimoto": 0.7307692307692307,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_334",
+      "nearest_train_tanimoto": 0.847457627118644,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_335",
+      "nearest_train_tanimoto": 0.7936507936507936,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_336",
+      "nearest_train_tanimoto": 0.8928571428571429,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_341",
+      "nearest_train_tanimoto": 0.3888888888888889,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_343",
+      "nearest_train_tanimoto": 0.3918918918918919,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_344",
+      "nearest_train_tanimoto": 0.3835616438356164,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_345",
+      "nearest_train_tanimoto": 0.4264705882352941,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_346",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_361",
+      "nearest_train_tanimoto": 0.36363636363636365,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_378",
+      "nearest_train_tanimoto": 0.5740740740740741,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_379",
+      "nearest_train_tanimoto": 0.5740740740740741,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_383",
+      "nearest_train_tanimoto": 0.6833333333333333,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_384",
+      "nearest_train_tanimoto": 0.6212121212121212,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_385",
+      "nearest_train_tanimoto": 0.6833333333333333,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_386",
+      "nearest_train_tanimoto": 0.5192307692307693,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_393",
+      "nearest_train_tanimoto": 0.6333333333333333,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_394",
+      "nearest_train_tanimoto": 0.48314606741573035,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_395",
+      "nearest_train_tanimoto": 0.4819277108433735,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_396",
+      "nearest_train_tanimoto": 0.49382716049382713,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_398",
+      "nearest_train_tanimoto": 0.8627450980392157,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_400",
+      "nearest_train_tanimoto": 0.7719298245614035,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_408",
+      "nearest_train_tanimoto": 0.46835443037974683,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_409",
+      "nearest_train_tanimoto": 0.45121951219512196,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_410",
+      "nearest_train_tanimoto": 0.6029411764705882,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_411",
+      "nearest_train_tanimoto": 0.46835443037974683,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_417",
+      "nearest_train_tanimoto": 0.6904761904761905,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_418",
+      "nearest_train_tanimoto": 0.3469387755102041,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_435",
+      "nearest_train_tanimoto": 0.5164835164835165,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_437",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_438",
+      "nearest_train_tanimoto": 0.25,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_443",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_444",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_445",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_446",
+      "nearest_train_tanimoto": 0.4473684210526316,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_447",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_452",
+      "nearest_train_tanimoto": 0.32727272727272727,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_454",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_475",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_478",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_481",
+      "nearest_train_tanimoto": 0.48214285714285715,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_482",
+      "nearest_train_tanimoto": 0.4626865671641791,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_483",
+      "nearest_train_tanimoto": 0.33783783783783783,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_491",
+      "nearest_train_tanimoto": 0.39622641509433965,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_495",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_503",
+      "nearest_train_tanimoto": 0.4868421052631579,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_507",
+      "nearest_train_tanimoto": 0.4935064935064935,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_508",
+      "nearest_train_tanimoto": 0.417910447761194,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_509",
+      "nearest_train_tanimoto": 0.6101694915254238,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_517",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_525",
+      "nearest_train_tanimoto": 0.46153846153846156,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_532",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_534",
+      "nearest_train_tanimoto": 0.5151515151515151,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_537",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_540",
+      "nearest_train_tanimoto": 0.5185185185185185,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_544",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_545",
+      "nearest_train_tanimoto": 0.4666666666666667,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_548",
+      "nearest_train_tanimoto": 0.45,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_554",
+      "nearest_train_tanimoto": 0.5161290322580645,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_555",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_556",
+      "nearest_train_tanimoto": 0.5151515151515151,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_557",
+      "nearest_train_tanimoto": 0.4838709677419355,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_558",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_564",
+      "nearest_train_tanimoto": 0.4375,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_565",
+      "nearest_train_tanimoto": 0.5806451612903226,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_570",
+      "nearest_train_tanimoto": 0.4117647058823529,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_576",
+      "nearest_train_tanimoto": 0.42105263157894735,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_604",
+      "nearest_train_tanimoto": 0.3076923076923077,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_646",
+      "nearest_train_tanimoto": 0.5789473684210527,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_652",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_654",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_706",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_735",
+      "nearest_train_tanimoto": 0.65,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_736",
+      "nearest_train_tanimoto": 0.6774193548387096,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_737",
+      "nearest_train_tanimoto": 0.6222222222222222,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_740",
+      "nearest_train_tanimoto": 0.48,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_742",
+      "nearest_train_tanimoto": 0.52,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_744",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_745",
+      "nearest_train_tanimoto": 0.65,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_749",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_750",
+      "nearest_train_tanimoto": 0.5185185185185185,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_769",
+      "nearest_train_tanimoto": 0.5945945945945946,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_770",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_785",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_791",
+      "nearest_train_tanimoto": 0.4375,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_816",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_817",
+      "nearest_train_tanimoto": 0.6857142857142857,
+      "cluster_size": 58
+    },
+    {
+      "polymer_id": "POLY_818",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_833",
+      "nearest_train_tanimoto": 0.3170731707317073,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_835",
+      "nearest_train_tanimoto": 0.3939393939393939,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_841",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_848",
+      "nearest_train_tanimoto": 0.45,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_849",
+      "nearest_train_tanimoto": 0.4186046511627907,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_851",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_852",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_858",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_860",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_861",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_863",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_865",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_866",
+      "nearest_train_tanimoto": 0.36585365853658536,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_873",
+      "nearest_train_tanimoto": 0.4230769230769231,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_876",
+      "nearest_train_tanimoto": 0.4782608695652174,
+      "cluster_size": 1
+    }
+  ],
+  "1": [
+    {
+      "polymer_id": "POLY_002",
+      "nearest_train_tanimoto": 0.4230769230769231,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_011",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_012",
+      "nearest_train_tanimoto": 0.46875,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_013",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_014",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_015",
+      "nearest_train_tanimoto": 0.6296296296296297,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_017",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_018",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_021",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_039",
+      "nearest_train_tanimoto": 0.5294117647058824,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_045",
+      "nearest_train_tanimoto": 0.8484848484848485,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_046",
+      "nearest_train_tanimoto": 0.8235294117647058,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_088",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_094",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_098",
+      "nearest_train_tanimoto": 0.6129032258064516,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_101",
+      "nearest_train_tanimoto": 0.4186046511627907,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_102",
+      "nearest_train_tanimoto": 0.4473684210526316,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_105",
+      "nearest_train_tanimoto": 0.4411764705882353,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_107",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_114",
+      "nearest_train_tanimoto": 0.4634146341463415,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_123",
+      "nearest_train_tanimoto": 0.4166666666666667,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_129",
+      "nearest_train_tanimoto": 0.7222222222222222,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_130",
+      "nearest_train_tanimoto": 0.8292682926829268,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_131",
+      "nearest_train_tanimoto": 0.4166666666666667,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_137",
+      "nearest_train_tanimoto": 0.7272727272727273,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_140",
+      "nearest_train_tanimoto": 0.375,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_148",
+      "nearest_train_tanimoto": 0.6071428571428571,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_149",
+      "nearest_train_tanimoto": 0.6071428571428571,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_151",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_152",
+      "nearest_train_tanimoto": 0.6071428571428571,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_153",
+      "nearest_train_tanimoto": 0.603448275862069,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_163",
+      "nearest_train_tanimoto": 0.65,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_165",
+      "nearest_train_tanimoto": 0.6896551724137931,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_168",
+      "nearest_train_tanimoto": 0.5925925925925926,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_171",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_192",
+      "nearest_train_tanimoto": 0.4888888888888889,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_197",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_198",
+      "nearest_train_tanimoto": 0.5517241379310345,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_205",
+      "nearest_train_tanimoto": 0.75,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_208",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_209",
+      "nearest_train_tanimoto": 0.5084745762711864,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_211",
+      "nearest_train_tanimoto": 0.7021276595744681,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_214",
+      "nearest_train_tanimoto": 0.5517241379310345,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_215",
+      "nearest_train_tanimoto": 0.7241379310344828,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_223",
+      "nearest_train_tanimoto": 0.6181818181818182,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_237",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_238",
+      "nearest_train_tanimoto": 0.3023255813953488,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_245",
+      "nearest_train_tanimoto": 0.3684210526315789,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_246",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_257",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_258",
+      "nearest_train_tanimoto": 0.46808510638297873,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_259",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_264",
+      "nearest_train_tanimoto": 0.4782608695652174,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_277",
+      "nearest_train_tanimoto": 0.6190476190476191,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_283",
+      "nearest_train_tanimoto": 0.723404255319149,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_284",
+      "nearest_train_tanimoto": 0.6153846153846154,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_296",
+      "nearest_train_tanimoto": 0.5555555555555556,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_324",
+      "nearest_train_tanimoto": 0.75,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_347",
+      "nearest_train_tanimoto": 0.7575757575757576,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_348",
+      "nearest_train_tanimoto": 0.4583333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_349",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_362",
+      "nearest_train_tanimoto": 0.6153846153846154,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_370",
+      "nearest_train_tanimoto": 0.5098039215686274,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_371",
+      "nearest_train_tanimoto": 0.5294117647058824,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_372",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_373",
+      "nearest_train_tanimoto": 0.62,
+      "cluster_size": 13
+    },
+    {
+      "polymer_id": "POLY_380",
+      "nearest_train_tanimoto": 0.6444444444444445,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_404",
+      "nearest_train_tanimoto": 0.3488372093023256,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_405",
+      "nearest_train_tanimoto": 0.37209302325581395,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_406",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_407",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_412",
+      "nearest_train_tanimoto": 0.4864864864864865,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_413",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_433",
+      "nearest_train_tanimoto": 0.3150684931506849,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_436",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_439",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_440",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_448",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_449",
+      "nearest_train_tanimoto": 0.3409090909090909,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_450",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_456",
+      "nearest_train_tanimoto": 0.6428571428571429,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_459",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_492",
+      "nearest_train_tanimoto": 0.46808510638297873,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_493",
+      "nearest_train_tanimoto": 0.40350877192982454,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_499",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_501",
+      "nearest_train_tanimoto": 0.7592592592592593,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_502",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_505",
+      "nearest_train_tanimoto": 0.7818181818181819,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_506",
+      "nearest_train_tanimoto": 0.7962962962962963,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_511",
+      "nearest_train_tanimoto": 0.5135135135135135,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_512",
+      "nearest_train_tanimoto": 0.5205479452054794,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_515",
+      "nearest_train_tanimoto": 0.4915254237288136,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_519",
+      "nearest_train_tanimoto": 0.578125,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_520",
+      "nearest_train_tanimoto": 0.6065573770491803,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_521",
+      "nearest_train_tanimoto": 0.6727272727272727,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_522",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_523",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_527",
+      "nearest_train_tanimoto": 0.53125,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_528",
+      "nearest_train_tanimoto": 0.3870967741935484,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_529",
+      "nearest_train_tanimoto": 0.4666666666666667,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_530",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_535",
+      "nearest_train_tanimoto": 0.43478260869565216,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_539",
+      "nearest_train_tanimoto": 0.5925925925925926,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_541",
+      "nearest_train_tanimoto": 0.3793103448275862,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_542",
+      "nearest_train_tanimoto": 0.5384615384615384,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_546",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_560",
+      "nearest_train_tanimoto": 0.4878048780487805,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_562",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_563",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_566",
+      "nearest_train_tanimoto": 0.3793103448275862,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_567",
+      "nearest_train_tanimoto": 0.375,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_572",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_579",
+      "nearest_train_tanimoto": 0.6428571428571429,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_581",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_582",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_585",
+      "nearest_train_tanimoto": 0.46153846153846156,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_586",
+      "nearest_train_tanimoto": 0.59375,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_587",
+      "nearest_train_tanimoto": 0.6551724137931034,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_588",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_589",
+      "nearest_train_tanimoto": 0.4444444444444444,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_590",
+      "nearest_train_tanimoto": 0.3888888888888889,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_594",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_596",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_597",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_598",
+      "nearest_train_tanimoto": 0.5121951219512195,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_601",
+      "nearest_train_tanimoto": 0.6551724137931034,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_605",
+      "nearest_train_tanimoto": 0.7272727272727273,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_644",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_657",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_674",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_689",
+      "nearest_train_tanimoto": 0.5476190476190477,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_690",
+      "nearest_train_tanimoto": 0.717948717948718,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_697",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_700",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_702",
+      "nearest_train_tanimoto": 0.45161290322580644,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_711",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_719",
+      "nearest_train_tanimoto": 0.2962962962962963,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_724",
+      "nearest_train_tanimoto": 0.43478260869565216,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_730",
+      "nearest_train_tanimoto": 0.41379310344827586,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_731",
+      "nearest_train_tanimoto": 0.3170731707317073,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_752",
+      "nearest_train_tanimoto": 0.2777777777777778,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_757",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_794",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_797",
+      "nearest_train_tanimoto": 0.5161290322580645,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_802",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_812",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_820",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_822",
+      "nearest_train_tanimoto": 0.3793103448275862,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_823",
+      "nearest_train_tanimoto": 0.30952380952380953,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_828",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_830",
+      "nearest_train_tanimoto": 0.2222222222222222,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_831",
+      "nearest_train_tanimoto": 0.4523809523809524,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_834",
+      "nearest_train_tanimoto": 0.4146341463414634,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_836",
+      "nearest_train_tanimoto": 0.43902439024390244,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_837",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_839",
+      "nearest_train_tanimoto": 0.4666666666666667,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_840",
+      "nearest_train_tanimoto": 0.8648648648648649,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_842",
+      "nearest_train_tanimoto": 0.46938775510204084,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_843",
+      "nearest_train_tanimoto": 0.7647058823529411,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_844",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_846",
+      "nearest_train_tanimoto": 0.5116279069767442,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_854",
+      "nearest_train_tanimoto": 0.5925925925925926,
+      "cluster_size": 22
+    },
+    {
+      "polymer_id": "POLY_877",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 18
+    },
+    {
+      "polymer_id": "POLY_881",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_882",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_883",
+      "nearest_train_tanimoto": 0.4857142857142857,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_884",
+      "nearest_train_tanimoto": 0.43902439024390244,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_885",
+      "nearest_train_tanimoto": 0.5384615384615384,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_886",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_887",
+      "nearest_train_tanimoto": 0.5609756097560976,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_888",
+      "nearest_train_tanimoto": 0.5581395348837209,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_889",
+      "nearest_train_tanimoto": 0.37777777777777777,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_890",
+      "nearest_train_tanimoto": 0.4722222222222222,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_891",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_892",
+      "nearest_train_tanimoto": 0.55,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_893",
+      "nearest_train_tanimoto": 0.5641025641025641,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_894",
+      "nearest_train_tanimoto": 0.575,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_895",
+      "nearest_train_tanimoto": 0.6571428571428571,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_896",
+      "nearest_train_tanimoto": 0.6756756756756757,
+      "cluster_size": 20
+    },
+    {
+      "polymer_id": "POLY_897",
+      "nearest_train_tanimoto": 0.6410256410256411,
+      "cluster_size": 20
+    }
+  ],
+  "2": [
+    {
+      "polymer_id": "POLY_001",
+      "nearest_train_tanimoto": 0.3,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_016",
+      "nearest_train_tanimoto": 0.6129032258064516,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_019",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_020",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_022",
+      "nearest_train_tanimoto": 0.5357142857142857,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_023",
+      "nearest_train_tanimoto": 0.5365853658536586,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_024",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_025",
+      "nearest_train_tanimoto": 0.4473684210526316,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_026",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_027",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_028",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_029",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_030",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_031",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_032",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_033",
+      "nearest_train_tanimoto": 0.525,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_034",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_035",
+      "nearest_train_tanimoto": 0.5581395348837209,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_036",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_037",
+      "nearest_train_tanimoto": 0.5925925925925926,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_038",
+      "nearest_train_tanimoto": 0.4827586206896552,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_040",
+      "nearest_train_tanimoto": 0.4523809523809524,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_041",
+      "nearest_train_tanimoto": 0.6285714285714286,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_043",
+      "nearest_train_tanimoto": 0.7142857142857143,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_044",
+      "nearest_train_tanimoto": 0.8484848484848485,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_050",
+      "nearest_train_tanimoto": 0.5121951219512195,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_051",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_052",
+      "nearest_train_tanimoto": 0.6097560975609756,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_054",
+      "nearest_train_tanimoto": 0.6585365853658537,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_055",
+      "nearest_train_tanimoto": 0.5227272727272727,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_056",
+      "nearest_train_tanimoto": 0.6444444444444445,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_057",
+      "nearest_train_tanimoto": 0.627906976744186,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_058",
+      "nearest_train_tanimoto": 0.575,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_059",
+      "nearest_train_tanimoto": 0.5238095238095238,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_060",
+      "nearest_train_tanimoto": 0.7368421052631579,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_063",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_064",
+      "nearest_train_tanimoto": 0.631578947368421,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_065",
+      "nearest_train_tanimoto": 0.7297297297297297,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_066",
+      "nearest_train_tanimoto": 0.8333333333333334,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_067",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_069",
+      "nearest_train_tanimoto": 0.65,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_071",
+      "nearest_train_tanimoto": 0.5641025641025641,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_072",
+      "nearest_train_tanimoto": 0.5853658536585366,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_073",
+      "nearest_train_tanimoto": 0.625,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_075",
+      "nearest_train_tanimoto": 0.6190476190476191,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_076",
+      "nearest_train_tanimoto": 0.6428571428571429,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_077",
+      "nearest_train_tanimoto": 0.4888888888888889,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_078",
+      "nearest_train_tanimoto": 0.4878048780487805,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_079",
+      "nearest_train_tanimoto": 0.5121951219512195,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_080",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_081",
+      "nearest_train_tanimoto": 0.4827586206896552,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_082",
+      "nearest_train_tanimoto": 0.5294117647058824,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_083",
+      "nearest_train_tanimoto": 0.5609756097560976,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_084",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_086",
+      "nearest_train_tanimoto": 0.5526315789473685,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_103",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_115",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_136",
+      "nearest_train_tanimoto": 0.40425531914893614,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_141",
+      "nearest_train_tanimoto": 0.46296296296296297,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_142",
+      "nearest_train_tanimoto": 0.46875,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_143",
+      "nearest_train_tanimoto": 0.4528301886792453,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_144",
+      "nearest_train_tanimoto": 0.546875,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_145",
+      "nearest_train_tanimoto": 0.46875,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_146",
+      "nearest_train_tanimoto": 0.4528301886792453,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_150",
+      "nearest_train_tanimoto": 0.6296296296296297,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_160",
+      "nearest_train_tanimoto": 0.6896551724137931,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_181",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_200",
+      "nearest_train_tanimoto": 0.4074074074074074,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_219",
+      "nearest_train_tanimoto": 0.9848484848484849,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_221",
+      "nearest_train_tanimoto": 0.7361111111111112,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_228",
+      "nearest_train_tanimoto": 0.34782608695652173,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_229",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_233",
+      "nearest_train_tanimoto": 0.36,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_239",
+      "nearest_train_tanimoto": 0.5526315789473685,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_274",
+      "nearest_train_tanimoto": 0.47619047619047616,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_285",
+      "nearest_train_tanimoto": 0.5476190476190477,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_294",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_295",
+      "nearest_train_tanimoto": 0.46774193548387094,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_297",
+      "nearest_train_tanimoto": 0.43636363636363634,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_298",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_299",
+      "nearest_train_tanimoto": 0.4307692307692308,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_300",
+      "nearest_train_tanimoto": 0.5106382978723404,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_301",
+      "nearest_train_tanimoto": 0.5106382978723404,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_302",
+      "nearest_train_tanimoto": 0.4827586206896552,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_303",
+      "nearest_train_tanimoto": 0.5106382978723404,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_326",
+      "nearest_train_tanimoto": 0.9047619047619048,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_333",
+      "nearest_train_tanimoto": 0.8928571428571429,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_338",
+      "nearest_train_tanimoto": 0.796875,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_342",
+      "nearest_train_tanimoto": 0.625,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_351",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_356",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_360",
+      "nearest_train_tanimoto": 0.5121951219512195,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_363",
+      "nearest_train_tanimoto": 0.4375,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_364",
+      "nearest_train_tanimoto": 0.417910447761194,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_365",
+      "nearest_train_tanimoto": 0.417910447761194,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_366",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_367",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_368",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_369",
+      "nearest_train_tanimoto": 0.4878048780487805,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_381",
+      "nearest_train_tanimoto": 0.345679012345679,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_382",
+      "nearest_train_tanimoto": 0.325,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_387",
+      "nearest_train_tanimoto": 0.48,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_388",
+      "nearest_train_tanimoto": 0.4925373134328358,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_389",
+      "nearest_train_tanimoto": 0.5074626865671642,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_390",
+      "nearest_train_tanimoto": 0.5074626865671642,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_392",
+      "nearest_train_tanimoto": 0.5060240963855421,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_401",
+      "nearest_train_tanimoto": 0.58,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_402",
+      "nearest_train_tanimoto": 0.6170212765957447,
+      "cluster_size": 47
+    },
+    {
+      "polymer_id": "POLY_403",
+      "nearest_train_tanimoto": 0.49333333333333335,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_414",
+      "nearest_train_tanimoto": 0.40963855421686746,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_421",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_427",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_441",
+      "nearest_train_tanimoto": 0.7090909090909091,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_469",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_476",
+      "nearest_train_tanimoto": 0.3953488372093023,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_477",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_479",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_480",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_494",
+      "nearest_train_tanimoto": 0.41935483870967744,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_496",
+      "nearest_train_tanimoto": 0.527027027027027,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_497",
+      "nearest_train_tanimoto": 0.5098039215686274,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_498",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_504",
+      "nearest_train_tanimoto": 0.5573770491803278,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_516",
+      "nearest_train_tanimoto": 0.7230769230769231,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_518",
+      "nearest_train_tanimoto": 0.38235294117647056,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_524",
+      "nearest_train_tanimoto": 0.5185185185185185,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_526",
+      "nearest_train_tanimoto": 0.4827586206896552,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_533",
+      "nearest_train_tanimoto": 0.4090909090909091,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_550",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_551",
+      "nearest_train_tanimoto": 0.45,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_569",
+      "nearest_train_tanimoto": 0.4230769230769231,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_571",
+      "nearest_train_tanimoto": 0.38095238095238093,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_580",
+      "nearest_train_tanimoto": 0.36363636363636365,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_584",
+      "nearest_train_tanimoto": 0.6551724137931034,
+      "cluster_size": 17
+    },
+    {
+      "polymer_id": "POLY_591",
+      "nearest_train_tanimoto": 0.5789473684210527,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_592",
+      "nearest_train_tanimoto": 0.6086956521739131,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_593",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_595",
+      "nearest_train_tanimoto": 0.4642857142857143,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_600",
+      "nearest_train_tanimoto": 0.38095238095238093,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_602",
+      "nearest_train_tanimoto": 0.4117647058823529,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_623",
+      "nearest_train_tanimoto": 0.4418604651162791,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_656",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_658",
+      "nearest_train_tanimoto": 0.4375,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_659",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_666",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_676",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_694",
+      "nearest_train_tanimoto": 0.7,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_708",
+      "nearest_train_tanimoto": 0.391304347826087,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_710",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_714",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_716",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_717",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_718",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_720",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_722",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_723",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_726",
+      "nearest_train_tanimoto": 0.4074074074074074,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_729",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_739",
+      "nearest_train_tanimoto": 0.19047619047619047,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_741",
+      "nearest_train_tanimoto": 0.6774193548387096,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_743",
+      "nearest_train_tanimoto": 0.6222222222222222,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_746",
+      "nearest_train_tanimoto": 0.5192307692307693,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_748",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_753",
+      "nearest_train_tanimoto": 0.4074074074074074,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_766",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_776",
+      "nearest_train_tanimoto": 0.32142857142857145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_786",
+      "nearest_train_tanimoto": 0.4583333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_795",
+      "nearest_train_tanimoto": 0.35714285714285715,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_814",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_838",
+      "nearest_train_tanimoto": 0.48717948717948717,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_855",
+      "nearest_train_tanimoto": 0.7592592592592593,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_864",
+      "nearest_train_tanimoto": 0.3870967741935484,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_867",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_868",
+      "nearest_train_tanimoto": 0.32142857142857145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_869",
+      "nearest_train_tanimoto": 0.7272727272727273,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_871",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_874",
+      "nearest_train_tanimoto": 0.6923076923076923,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_875",
+      "nearest_train_tanimoto": 0.39285714285714285,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_879",
+      "nearest_train_tanimoto": 0.3870967741935484,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_880",
+      "nearest_train_tanimoto": 0.5555555555555556,
+      "cluster_size": 47
+    }
+  ],
+  "3": [
+    {
+      "polymer_id": "POLY_003",
+      "nearest_train_tanimoto": 0.7837837837837838,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_004",
+      "nearest_train_tanimoto": 0.7222222222222222,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_005",
+      "nearest_train_tanimoto": 0.7435897435897436,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_006",
+      "nearest_train_tanimoto": 0.7,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_007",
+      "nearest_train_tanimoto": 0.7073170731707317,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_008",
+      "nearest_train_tanimoto": 0.6756756756756757,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_009",
+      "nearest_train_tanimoto": 0.6829268292682927,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_010",
+      "nearest_train_tanimoto": 0.717948717948718,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_087",
+      "nearest_train_tanimoto": 0.5526315789473685,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_089",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_091",
+      "nearest_train_tanimoto": 0.5483870967741935,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_092",
+      "nearest_train_tanimoto": 0.391304347826087,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_093",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_095",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_096",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_099",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_100",
+      "nearest_train_tanimoto": 0.5483870967741935,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_108",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_111",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_113",
+      "nearest_train_tanimoto": 0.4166666666666667,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_118",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_119",
+      "nearest_train_tanimoto": 0.34782608695652173,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_122",
+      "nearest_train_tanimoto": 0.16279069767441862,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_127",
+      "nearest_train_tanimoto": 0.22580645161290322,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_135",
+      "nearest_train_tanimoto": 0.41818181818181815,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_154",
+      "nearest_train_tanimoto": 0.6071428571428571,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_179",
+      "nearest_train_tanimoto": 0.45161290322580644,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_180",
+      "nearest_train_tanimoto": 0.4117647058823529,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_182",
+      "nearest_train_tanimoto": 0.5769230769230769,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_188",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_189",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_190",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_191",
+      "nearest_train_tanimoto": 0.5357142857142857,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_195",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_196",
+      "nearest_train_tanimoto": 0.4411764705882353,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_224",
+      "nearest_train_tanimoto": 0.26785714285714285,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_226",
+      "nearest_train_tanimoto": 0.20930232558139536,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_227",
+      "nearest_train_tanimoto": 0.4074074074074074,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_230",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_231",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_232",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_234",
+      "nearest_train_tanimoto": 0.375,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_235",
+      "nearest_train_tanimoto": 0.36363636363636365,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_236",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_240",
+      "nearest_train_tanimoto": 0.43243243243243246,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_260",
+      "nearest_train_tanimoto": 0.5205479452054794,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_261",
+      "nearest_train_tanimoto": 0.47435897435897434,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_262",
+      "nearest_train_tanimoto": 0.43243243243243246,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_263",
+      "nearest_train_tanimoto": 0.4155844155844156,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_276",
+      "nearest_train_tanimoto": 0.45098039215686275,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_305",
+      "nearest_train_tanimoto": 0.6744186046511628,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_306",
+      "nearest_train_tanimoto": 0.6122448979591837,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_307",
+      "nearest_train_tanimoto": 0.6041666666666666,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_308",
+      "nearest_train_tanimoto": 0.6041666666666666,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_309",
+      "nearest_train_tanimoto": 0.6904761904761905,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_310",
+      "nearest_train_tanimoto": 0.625,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_339",
+      "nearest_train_tanimoto": 0.41818181818181815,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_340",
+      "nearest_train_tanimoto": 0.44,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_355",
+      "nearest_train_tanimoto": 0.4925373134328358,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_357",
+      "nearest_train_tanimoto": 0.31746031746031744,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_374",
+      "nearest_train_tanimoto": 0.43548387096774194,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_375",
+      "nearest_train_tanimoto": 0.47692307692307695,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_376",
+      "nearest_train_tanimoto": 0.4857142857142857,
+      "cluster_size": 7
+    },
+    {
+      "polymer_id": "POLY_377",
+      "nearest_train_tanimoto": 0.4246575342465753,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_397",
+      "nearest_train_tanimoto": 0.8571428571428571,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_399",
+      "nearest_train_tanimoto": 0.8627450980392157,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_415",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_416",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_442",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_473",
+      "nearest_train_tanimoto": 0.6571428571428571,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_474",
+      "nearest_train_tanimoto": 0.6176470588235294,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_484",
+      "nearest_train_tanimoto": 0.6341463414634146,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_485",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_490",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_513",
+      "nearest_train_tanimoto": 0.46153846153846156,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_538",
+      "nearest_train_tanimoto": 0.38095238095238093,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_543",
+      "nearest_train_tanimoto": 0.3225806451612903,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_553",
+      "nearest_train_tanimoto": 0.6129032258064516,
+      "cluster_size": 9
+    },
+    {
+      "polymer_id": "POLY_559",
+      "nearest_train_tanimoto": 0.35294117647058826,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_573",
+      "nearest_train_tanimoto": 0.32142857142857145,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_574",
+      "nearest_train_tanimoto": 0.36,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_575",
+      "nearest_train_tanimoto": 0.30434782608695654,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_577",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_578",
+      "nearest_train_tanimoto": 0.391304347826087,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_603",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_606",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_607",
+      "nearest_train_tanimoto": 0.6086956521739131,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_608",
+      "nearest_train_tanimoto": 0.64,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_609",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_610",
+      "nearest_train_tanimoto": 0.53125,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_611",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_612",
+      "nearest_train_tanimoto": 0.5185185185185185,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_613",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_614",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_615",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_616",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_617",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_618",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_619",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_620",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_621",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_622",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_624",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_625",
+      "nearest_train_tanimoto": 0.41935483870967744,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_632",
+      "nearest_train_tanimoto": 0.64,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_633",
+      "nearest_train_tanimoto": 0.5925925925925926,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_634",
+      "nearest_train_tanimoto": 0.5517241379310345,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_635",
+      "nearest_train_tanimoto": 0.4782608695652174,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_637",
+      "nearest_train_tanimoto": 0.5161290322580645,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_639",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_641",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_642",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_643",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_648",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_650",
+      "nearest_train_tanimoto": 0.5517241379310345,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_651",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_653",
+      "nearest_train_tanimoto": 0.41935483870967744,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_655",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_660",
+      "nearest_train_tanimoto": 0.53125,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_661",
+      "nearest_train_tanimoto": 0.5128205128205128,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_662",
+      "nearest_train_tanimoto": 0.5609756097560976,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_663",
+      "nearest_train_tanimoto": 0.5952380952380952,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_664",
+      "nearest_train_tanimoto": 0.4888888888888889,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_665",
+      "nearest_train_tanimoto": 0.5789473684210527,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_667",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_668",
+      "nearest_train_tanimoto": 0.4722222222222222,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_669",
+      "nearest_train_tanimoto": 0.5151515151515151,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_670",
+      "nearest_train_tanimoto": 0.4857142857142857,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_671",
+      "nearest_train_tanimoto": 0.425531914893617,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_672",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_673",
+      "nearest_train_tanimoto": 0.46153846153846156,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_675",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 12
+    },
+    {
+      "polymer_id": "POLY_677",
+      "nearest_train_tanimoto": 0.48,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_678",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_679",
+      "nearest_train_tanimoto": 0.5806451612903226,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_680",
+      "nearest_train_tanimoto": 0.48484848484848486,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_681",
+      "nearest_train_tanimoto": 0.45714285714285713,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_682",
+      "nearest_train_tanimoto": 0.45714285714285713,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_685",
+      "nearest_train_tanimoto": 0.3793103448275862,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_686",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_687",
+      "nearest_train_tanimoto": 0.5128205128205128,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_688",
+      "nearest_train_tanimoto": 0.46511627906976744,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_691",
+      "nearest_train_tanimoto": 0.717948717948718,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_692",
+      "nearest_train_tanimoto": 0.6829268292682927,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_695",
+      "nearest_train_tanimoto": 0.7,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_696",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_699",
+      "nearest_train_tanimoto": 0.4473684210526316,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_701",
+      "nearest_train_tanimoto": 0.5238095238095238,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_703",
+      "nearest_train_tanimoto": 0.4878048780487805,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_704",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 16
+    },
+    {
+      "polymer_id": "POLY_705",
+      "nearest_train_tanimoto": 0.358974358974359,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_709",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_712",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_713",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_715",
+      "nearest_train_tanimoto": 0.29411764705882354,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_721",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_725",
+      "nearest_train_tanimoto": 0.36363636363636365,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_787",
+      "nearest_train_tanimoto": 0.3888888888888889,
+      "cluster_size": 29
+    },
+    {
+      "polymer_id": "POLY_803",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_804",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_805",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_806",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_807",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_808",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_809",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_810",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_811",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_813",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_819",
+      "nearest_train_tanimoto": 0.7714285714285715,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_821",
+      "nearest_train_tanimoto": 0.5333333333333333,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_825",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_826",
+      "nearest_train_tanimoto": 0.6046511627906976,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_827",
+      "nearest_train_tanimoto": 0.7105263157894737,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_829",
+      "nearest_train_tanimoto": 0.48717948717948717,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_847",
+      "nearest_train_tanimoto": 0.4864864864864865,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_850",
+      "nearest_train_tanimoto": 0.5416666666666666,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_856",
+      "nearest_train_tanimoto": 0.34210526315789475,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_872",
+      "nearest_train_tanimoto": 0.2,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_878",
+      "nearest_train_tanimoto": 0.34375,
+      "cluster_size": 2
+    }
+  ],
+  "4": [
+    {
+      "polymer_id": "POLY_042",
+      "nearest_train_tanimoto": 0.5789473684210527,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_048",
+      "nearest_train_tanimoto": 0.5121951219512195,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_049",
+      "nearest_train_tanimoto": 0.4883720930232558,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_061",
+      "nearest_train_tanimoto": 0.6190476190476191,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_062",
+      "nearest_train_tanimoto": 0.7368421052631579,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_068",
+      "nearest_train_tanimoto": 0.8333333333333334,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_070",
+      "nearest_train_tanimoto": 0.7894736842105263,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_074",
+      "nearest_train_tanimoto": 0.6470588235294118,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_085",
+      "nearest_train_tanimoto": 0.4166666666666667,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_090",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_097",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_106",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_109",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_110",
+      "nearest_train_tanimoto": 0.5142857142857142,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_112",
+      "nearest_train_tanimoto": 0.43902439024390244,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_116",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_117",
+      "nearest_train_tanimoto": 0.25,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_121",
+      "nearest_train_tanimoto": 0.6521739130434783,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_124",
+      "nearest_train_tanimoto": 0.6111111111111112,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_126",
+      "nearest_train_tanimoto": 0.44680851063829785,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_128",
+      "nearest_train_tanimoto": 0.42,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_133",
+      "nearest_train_tanimoto": 0.7297297297297297,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_134",
+      "nearest_train_tanimoto": 0.6590909090909091,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_138",
+      "nearest_train_tanimoto": 0.4444444444444444,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_155",
+      "nearest_train_tanimoto": 0.36507936507936506,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_172",
+      "nearest_train_tanimoto": 0.37777777777777777,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_173",
+      "nearest_train_tanimoto": 0.43902439024390244,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_174",
+      "nearest_train_tanimoto": 0.375,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_175",
+      "nearest_train_tanimoto": 0.4444444444444444,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_176",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_177",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_178",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_183",
+      "nearest_train_tanimoto": 0.475,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_184",
+      "nearest_train_tanimoto": 0.6060606060606061,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_185",
+      "nearest_train_tanimoto": 0.46153846153846156,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_186",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_187",
+      "nearest_train_tanimoto": 0.47058823529411764,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_199",
+      "nearest_train_tanimoto": 0.5555555555555556,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_241",
+      "nearest_train_tanimoto": 0.5581395348837209,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_242",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_265",
+      "nearest_train_tanimoto": 0.36666666666666664,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_266",
+      "nearest_train_tanimoto": 0.8431372549019608,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_270",
+      "nearest_train_tanimoto": 0.8070175438596491,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_278",
+      "nearest_train_tanimoto": 0.5901639344262295,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_287",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_288",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_289",
+      "nearest_train_tanimoto": 0.6444444444444445,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_290",
+      "nearest_train_tanimoto": 0.8,
+      "cluster_size": 5
+    },
+    {
+      "polymer_id": "POLY_292",
+      "nearest_train_tanimoto": 0.3448275862068966,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_293",
+      "nearest_train_tanimoto": 0.288135593220339,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_304",
+      "nearest_train_tanimoto": 0.7297297297297297,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_314",
+      "nearest_train_tanimoto": 0.38596491228070173,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_315",
+      "nearest_train_tanimoto": 0.3728813559322034,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_316",
+      "nearest_train_tanimoto": 0.38,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_329",
+      "nearest_train_tanimoto": 0.3684210526315789,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_337",
+      "nearest_train_tanimoto": 0.864406779661017,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_350",
+      "nearest_train_tanimoto": 0.4583333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_352",
+      "nearest_train_tanimoto": 0.5357142857142857,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_353",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_354",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_358",
+      "nearest_train_tanimoto": 0.4339622641509434,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_359",
+      "nearest_train_tanimoto": 0.42592592592592593,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_391",
+      "nearest_train_tanimoto": 0.6585365853658537,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_419",
+      "nearest_train_tanimoto": 0.5164835164835165,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_420",
+      "nearest_train_tanimoto": 0.4574468085106383,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_422",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_423",
+      "nearest_train_tanimoto": 0.5423728813559322,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_424",
+      "nearest_train_tanimoto": 0.5423728813559322,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_425",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_426",
+      "nearest_train_tanimoto": 0.5373134328358209,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_428",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_429",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_430",
+      "nearest_train_tanimoto": 0.5471698113207547,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_431",
+      "nearest_train_tanimoto": 0.5423728813559322,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_432",
+      "nearest_train_tanimoto": 0.5172413793103449,
+      "cluster_size": 14
+    },
+    {
+      "polymer_id": "POLY_434",
+      "nearest_train_tanimoto": 0.3673469387755102,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_451",
+      "nearest_train_tanimoto": 0.4782608695652174,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_453",
+      "nearest_train_tanimoto": 0.32142857142857145,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_455",
+      "nearest_train_tanimoto": 0.44680851063829785,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_457",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_458",
+      "nearest_train_tanimoto": 0.30985915492957744,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_460",
+      "nearest_train_tanimoto": 0.30985915492957744,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_461",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_462",
+      "nearest_train_tanimoto": 0.3235294117647059,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_463",
+      "nearest_train_tanimoto": 0.3283582089552239,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_464",
+      "nearest_train_tanimoto": 0.3142857142857143,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_465",
+      "nearest_train_tanimoto": 0.3235294117647059,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_466",
+      "nearest_train_tanimoto": 0.30985915492957744,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_467",
+      "nearest_train_tanimoto": 0.3188405797101449,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_468",
+      "nearest_train_tanimoto": 0.30985915492957744,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_470",
+      "nearest_train_tanimoto": 0.4772727272727273,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_471",
+      "nearest_train_tanimoto": 0.44680851063829785,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_472",
+      "nearest_train_tanimoto": 0.6571428571428571,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_486",
+      "nearest_train_tanimoto": 0.4594594594594595,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_487",
+      "nearest_train_tanimoto": 0.44155844155844154,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_488",
+      "nearest_train_tanimoto": 0.527027027027027,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_489",
+      "nearest_train_tanimoto": 0.43333333333333335,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_500",
+      "nearest_train_tanimoto": 0.5416666666666666,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_510",
+      "nearest_train_tanimoto": 0.3333333333333333,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_514",
+      "nearest_train_tanimoto": 0.34782608695652173,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_531",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_536",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_547",
+      "nearest_train_tanimoto": 0.4482758620689655,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_549",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_552",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_561",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_568",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_583",
+      "nearest_train_tanimoto": 0.37037037037037035,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_599",
+      "nearest_train_tanimoto": 0.6428571428571429,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_626",
+      "nearest_train_tanimoto": 0.5666666666666667,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_627",
+      "nearest_train_tanimoto": 0.5862068965517241,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_628",
+      "nearest_train_tanimoto": 0.53125,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_629",
+      "nearest_train_tanimoto": 0.5483870967741935,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_630",
+      "nearest_train_tanimoto": 0.6451612903225806,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_631",
+      "nearest_train_tanimoto": 0.6666666666666666,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_636",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_638",
+      "nearest_train_tanimoto": 0.5483870967741935,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_640",
+      "nearest_train_tanimoto": 0.64,
+      "cluster_size": 4
+    },
+    {
+      "polymer_id": "POLY_645",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_647",
+      "nearest_train_tanimoto": 0.6153846153846154,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_649",
+      "nearest_train_tanimoto": 0.47368421052631576,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_683",
+      "nearest_train_tanimoto": 0.46511627906976744,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_684",
+      "nearest_train_tanimoto": 0.5476190476190477,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_693",
+      "nearest_train_tanimoto": 0.5609756097560976,
+      "cluster_size": 6
+    },
+    {
+      "polymer_id": "POLY_698",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 3
+    },
+    {
+      "polymer_id": "POLY_707",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_727",
+      "nearest_train_tanimoto": 0.41379310344827586,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_728",
+      "nearest_train_tanimoto": 0.3870967741935484,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_732",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_733",
+      "nearest_train_tanimoto": 0.6756756756756757,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_734",
+      "nearest_train_tanimoto": 0.75,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_738",
+      "nearest_train_tanimoto": 0.425531914893617,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_747",
+      "nearest_train_tanimoto": 0.4418604651162791,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_751",
+      "nearest_train_tanimoto": 0.3,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_754",
+      "nearest_train_tanimoto": 0.45454545454545453,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_755",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_756",
+      "nearest_train_tanimoto": 0.4146341463414634,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_758",
+      "nearest_train_tanimoto": 0.4,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_759",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_760",
+      "nearest_train_tanimoto": 0.5714285714285714,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_761",
+      "nearest_train_tanimoto": 0.5945945945945946,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_762",
+      "nearest_train_tanimoto": 0.5454545454545454,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_763",
+      "nearest_train_tanimoto": 0.56,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_764",
+      "nearest_train_tanimoto": 0.4878048780487805,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_765",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_767",
+      "nearest_train_tanimoto": 0.40476190476190477,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_768",
+      "nearest_train_tanimoto": 0.6,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_771",
+      "nearest_train_tanimoto": 0.48148148148148145,
+      "cluster_size": 11
+    },
+    {
+      "polymer_id": "POLY_772",
+      "nearest_train_tanimoto": 0.5263157894736842,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_773",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_774",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_775",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_777",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_778",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_779",
+      "nearest_train_tanimoto": 0.5,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_780",
+      "nearest_train_tanimoto": 0.5348837209302325,
+      "cluster_size": 8
+    },
+    {
+      "polymer_id": "POLY_781",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_782",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_783",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 19
+    },
+    {
+      "polymer_id": "POLY_784",
+      "nearest_train_tanimoto": 0.38636363636363635,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_788",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_789",
+      "nearest_train_tanimoto": 0.3617021276595745,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_790",
+      "nearest_train_tanimoto": 0.5476190476190477,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_792",
+      "nearest_train_tanimoto": 0.5263157894736842,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_793",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_796",
+      "nearest_train_tanimoto": 0.44680851063829785,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_798",
+      "nearest_train_tanimoto": 0.4583333333333333,
+      "cluster_size": 10
+    },
+    {
+      "polymer_id": "POLY_799",
+      "nearest_train_tanimoto": 0.42857142857142855,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_800",
+      "nearest_train_tanimoto": 0.4318181818181818,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_801",
+      "nearest_train_tanimoto": 0.46511627906976744,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_815",
+      "nearest_train_tanimoto": 0.40384615384615385,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_824",
+      "nearest_train_tanimoto": 0.8095238095238095,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_832",
+      "nearest_train_tanimoto": 0.391304347826087,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_845",
+      "nearest_train_tanimoto": 0.8648648648648649,
+      "cluster_size": 31
+    },
+    {
+      "polymer_id": "POLY_853",
+      "nearest_train_tanimoto": 0.38461538461538464,
+      "cluster_size": 1
+    },
+    {
+      "polymer_id": "POLY_857",
+      "nearest_train_tanimoto": 0.6101694915254238,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_859",
+      "nearest_train_tanimoto": 0.5217391304347826,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_862",
+      "nearest_train_tanimoto": 0.5581395348837209,
+      "cluster_size": 2
+    },
+    {
+      "polymer_id": "POLY_870",
+      "nearest_train_tanimoto": 0.2857142857142857,
+      "cluster_size": 3
+    }
+  ]
+}
